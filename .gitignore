@@ -27,9 +27,11 @@
 *.out
 *.app
 
-#VS
+# Visual Studio
+.vs/
 Debug
 Release
 x64
 ipch
+*.vcxproj.user
 *.*sdf
